@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "04b2c38802a6c7c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d4955b2e2eb535",
+        "type": "leaf",
+        "dimension": 63.71220020855057,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Villain Template.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "e8a22cba960a3779",
+        "type": "leaf",
+        "dimension": 36.28779979144943,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "338f8f1d6a4b0908",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0cf113df77f5f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bd03d6f09fca146",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328
+  },
+  "right": {
+    "id": "f928f2afd9ba3d80",
+    "type": "split",
+    "children": [
+      {
+        "id": "e12758d8429e76da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74a0fb5f0770fd7a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/Villain Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9353e7d378964c91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c75237b224be4df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#npc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "51d928e04dacc9c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db983444d0d59ec0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Villain Template.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "active": "40d4955b2e2eb535",
+  "lastOpenFiles": [
+    "Templates/Villain Template.md",
+    "Saruman the Multi-Colored.md",
+    "White Council.md",
+    "Sauron.md",
+    "Old Session Notes/Untitled.md",
+    "Templates/Session Templates/Session Zero Template.md",
+    "Gandalf the White.md",
+    "Nienna, the Lady of Mercy.md",
+    "Elrond.md",
+    "Templates/Faction Template.md"
+  ]
+}
