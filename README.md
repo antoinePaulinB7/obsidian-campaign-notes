@@ -1,4 +1,4 @@
-# obsidian-campaign-notes
+# Obsidian Dnd Campaign Notes
 This is a obsidian vault template for Dnd campaign notes based on Sly Flourish's Notion.so campaign notes.
 You could see this as a conversion of Sly Flourish's template for Obsidian.
 
